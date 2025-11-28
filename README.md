@@ -3,7 +3,7 @@
 
 This was my end-of-degree proyect!
 
-## TL;DR:
+## TL;DR
 
 I built a predictor for concentrations of several micronutrients to try to, one understand what was happening to my childhood's beach lagoon and two, its future's health. 
 
