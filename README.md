@@ -5,7 +5,7 @@ This was my end-of-degree proyect!
 
 ## TL;DR
 
-I built a predictor for concentrations of several micronutrients to try to, one understand what was happening to my childhood's beach lagoon and two, its future's health. 
+I built a predictor for concentrations of several micronutrients to try to, one understand what was happening to my childhood's beach lagoon and two, try to know its future's health. 
 
 #### --Technical--
 Time series cross-validation changes everything. Expanding window prevents data leakage. Bootstrap sampling breaks temporal order. Lag features solve RF limitations. GridSearchCV found optimal hyperparameters. 256 splits minimized validation error. Random Forest outperformed SARIMA consistently. Feature engineering beat model complexity. MSE dropped from 5.622 to 1.211. Supervised structure preserved temporal dependencies. Loss curves revealed no overfitting. Multiple metrics validated robustness. Seasonal patterns emerged naturally. Model generalized beyond training data.
