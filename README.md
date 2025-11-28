@@ -7,10 +7,10 @@ This was my end-of-degree proyect!
 
 I built a predictor for concentrations of several micronutrients to try to, one understand what was happening to my childhood's beach lagoon and two, its future's health. 
 
-#### Technical 
+#### --Technical--
 Time series cross-validation changes everything. Expanding window prevents data leakage. Bootstrap sampling breaks temporal order. Lag features solve RF limitations. GridSearchCV found optimal hyperparameters. 256 splits minimized validation error. Random Forest outperformed SARIMA consistently. Feature engineering beat model complexity. MSE dropped from 5.622 to 1.211. Supervised structure preserved temporal dependencies. Loss curves revealed no overfitting. Multiple metrics validated robustness. Seasonal patterns emerged naturally. Model generalized beyond training data.
 
-#### Real-World
+#### --Real-World--
 Real projects are messy. Time series data is tricky. Random Forest beat specialized models. Hyperparameter tuning cuts errors dramatically. Real data needs compromises. Eight iterations taught more than theory. Perfect is the enemy of done. Engineering meets environmental science. Personal motivation drives better work. High errors aren't always bad. Validate everything multiple times. Interdisciplinary work is valuable. Limitations are okay to admit.
 
 ### WHOLE SPILL:
